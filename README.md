@@ -34,10 +34,13 @@ The report should not only consist a basic EDA and model implementation, it shou
 
 ## Data Dictionary
 
- Booking_ID: unique identifier of each booking
- no_of_adults: Number of adults
- no_of_children: Number of Children
- no_of_weekend_nights: Number of weekend nights (Saturday or Sunday) the guest stayed or booked to stay at the hotel
+Booking_ID: unique identifier of each booking
+
+no_of_adults: Number of adults
+
+no_of_children: Number of Children
+
+no_of_weekend_nights: Number of weekend nights (Saturday or Sunday) the guest stayed or booked to stay at the hotel
  no_of_week_nights: Number of week nights (Monday to Friday) the guest stayed or booked to stay at the hotel
  type_of_meal_plan: Type of meal plan booked by the customer:
  required_car_parking_space: Does the customer require a car parking space? (0 - No, 1- Yes)
